@@ -1,0 +1,20 @@
+{
+  "name": "array-utils",
+  "version": "1.0.0",
+  "description": "Write your own version of \r - `forEach`\r - `map`\r - `filter`\r - `reduce`",
+  "main": "arrayUtils.js",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
